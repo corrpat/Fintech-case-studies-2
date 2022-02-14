@@ -16,3 +16,5 @@ Why is this company exemplary in the Fintech space? What are their strengths and
 
 What is the prognosis for this company? Where do they expect to be in the future?
 * They expect to takje a larger share of the investor pool.
+
+the end
